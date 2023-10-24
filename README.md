@@ -1,3 +1,3 @@
 #Calculadora Android Studio
-Eduardo Loza
+#Autor: Eduardo Loza
 
